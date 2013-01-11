@@ -6,6 +6,6 @@ second code line
 
 third code line changed differently
 
-fourth code line 
+fourth code line changed
 
 fifth code line
