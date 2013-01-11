@@ -4,6 +4,6 @@ first code line
 
 second code line
 
-third code line changed
+third code line changed differently
 
-fourth line
+fourth code line 
