@@ -6,7 +6,7 @@ second code line
 
 third code line changed differently
 
-fourth code line changed
+fourth code line
 
 fifth code line
 
