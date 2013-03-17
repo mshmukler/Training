@@ -12,4 +12,4 @@ fifth code line
 
 six line
 
-line number 7 added
+seven line added
